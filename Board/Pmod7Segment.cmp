@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-27 BZR 5304)-product   date = 2015 January 03, Saturday 18:45:48
+
+BeginCmp
+TimeStamp = /54A828DA;
+Reference = J1;
+ValeurCmp = PMOD;
+IdModule  = Digilent:PMOD-DUAL-MALE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80DD5;
+Reference = LED1;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80DFF;
+Reference = LED2;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80E2A;
+Reference = LED3;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80E55;
+Reference = LED4;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80E7B;
+Reference = LED5;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80E9E;
+Reference = LED6;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80EC5;
+Reference = LED7;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A80EF3;
+Reference = LED8;
+ValeurCmp = SA39-11;
+IdModule  = Kingbright:SA39-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81B67;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81BA6;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81BEE;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81C31;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81C73;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81CBF;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81D0A;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A81D58;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+EndListe
